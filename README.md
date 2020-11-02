@@ -51,7 +51,9 @@ zipcrack mode :
 
 cracking zip file with dictionary and bruteforce attack 
 
+Setup:
 
+Run python3 setup.py install
 
 Updating Tool 
 
