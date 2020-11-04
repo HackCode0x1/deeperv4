@@ -71,7 +71,7 @@ def updater():
 	t1.start() 
 	sleep(2)
 
-	Counter = '0'
+	Counter = '1'
 	Crunt_Version = '4.0.0'
 	try:
 		Get_Version = urlopen('https://raw.githubusercontent.com/NoOAYe/deeperv4/master/Data/version.txt').read().decode('utf-8').strip()
