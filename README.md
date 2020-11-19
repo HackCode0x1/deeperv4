@@ -84,4 +84,5 @@ Linux Windows
 
 [![Watch This Video]((https://youtu.be/6tkAqBF8mfg)
 
+[![Watch the video](https://img.youtube.com/vi/6tkAqBF8mfg/0.jpg)](https://youtu.be/6tkAqBF8mfg)
 
