@@ -80,6 +80,6 @@ Linux Windows
 <img src="scrren/sx6.png">
 <img src="scrren/sx7.png">
 
-[![Watch This Video](https://i9.ytimg.com/vi/6tkAqBF8mfg/mq1.jpg?sqp=CIzL1_0F&rs=AOn4CLBLVs6nCqGOiEZpC7i8V_Zmg4NJng&retry=4)](https://youtu.be/6tkAqBF8mfg)
+[![Watch This Video](https://youtu.be/6tkAqBF8mfg)
 
 
