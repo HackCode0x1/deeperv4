@@ -81,6 +81,11 @@ Linux Windows
 <img src="scrren/sx7.png">
 
 
+<img src="scrren/sc1.png">
+<img src="scrren/sc2.png">
+<img src="scrren/sc3.png">
+<img src="scrren/sc4.png">
+
 
 [![Watch This Video]((https://youtu.be/6tkAqBF8mfg)
 
