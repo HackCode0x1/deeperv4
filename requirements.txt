@@ -1,7 +1,7 @@
-Crypto==1.4.1
-halo==0.0.30 
-colorama==0.4.3 
-pycryptodome==3.9.8 
+Crypto
+halo
+colorama
+pycryptodome
 yaspin
 progressbar
 tqdm
