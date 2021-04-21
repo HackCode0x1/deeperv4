@@ -4,6 +4,8 @@ Deeper V4
 
 pip3 install -r requirements.txt
 
+recommended install python 3.7.3
+
 Deeper CR With Style 
 
 Deeper V4 Fast Encryption With Progress bar 
@@ -14,6 +16,8 @@ Encrypting Files With Aes and Rsa Public And Private Keys
 Encrypt file or files in folder or subfolders or Partition
 
 Auto Replace Spaces And Chars Like & () In Files 
+
+Hide Keys
 
 Deeper Cr Shell Mode:
 
