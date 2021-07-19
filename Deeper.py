@@ -2591,8 +2591,8 @@ def Banners_Style():
 
 	#################################################### Style
 	D = Fore.WHITE+'['+Fore.GREEN+'--'+Style.RESET_ALL+"]"
-	CN = Fore.LIGHTCYAN_EX+' CodeName: '+Style.RESET_ALL+":"+Fore.LIGHTRED_EX +"N@RAMInA$SnFLiCKETBuTKS"+Style.RESET_ALL
-	CB = Fore.LIGHTCYAN_EX+'        Created By'+Style.RESET_ALL+":"+Fore.LIGHTRED_EX+'  AKB'+Style.RESET_ALL
+	CN = Fore.LIGHTCYAN_EX+' CodeName: '+Style.RESET_ALL+":"+Fore.LIGHTRED_EX +"HACkCrX"+Style.RESET_ALL
+	CB = Fore.LIGHTCYAN_EX+'        Created By'+Style.RESET_ALL+":"+Fore.LIGHTRED_EX+'  AhmedBalaha'+Style.RESET_ALL
 	VE = Fore.LIGHTCYAN_EX+'        Version'+Style.RESET_ALL+":"+Fore.LIGHTRED_EX+'  4.0.0'+Style.RESET_ALL
 
 
@@ -2718,8 +2718,8 @@ o`   'oooo()  | ________   _   _)
 
 		
 	
-	CODE_BANNERCN = '['+Fore.GREEN+'--'+Style.RESET_ALL+"]  "+Fore.LIGHTCYAN_EX+' CodeName: '+Style.RESET_ALL+":"+Fore.LIGHTRED_EX+"N@RAMInA$SnFLiCKETBuTKS"+Style.RESET_ALL+'   ['+Fore.GREEN+'--'+Style.RESET_ALL+"]"
-	CODE_BANNER = '['+Fore.GREEN+'--'+Style.RESET_ALL+"]   "+Fore.LIGHTCYAN_EX+'        Created By'+Style.RESET_ALL+":"+Fore.LIGHTRED_EX+'  AKB'+Style.RESET_ALL+'             ['+Fore.GREEN+'--'+Style.RESET_ALL+"]"
+	CODE_BANNERCN = '['+Fore.GREEN+'--'+Style.RESET_ALL+"]  "+Fore.LIGHTCYAN_EX+' CodeName: '+Style.RESET_ALL+":"+Fore.LIGHTRED_EX+"HACkCrX"+Style.RESET_ALL+'   ['+Fore.GREEN+'--'+Style.RESET_ALL+"]"
+	CODE_BANNER = '['+Fore.GREEN+'--'+Style.RESET_ALL+"]   "+Fore.LIGHTCYAN_EX+'        Created By'+Style.RESET_ALL+":"+Fore.LIGHTRED_EX+'  AhmedBalaha'+Style.RESET_ALL+'             ['+Fore.GREEN+'--'+Style.RESET_ALL+"]"
 	CODE_BANNERV = '['+Fore.GREEN+'--'+Style.RESET_ALL+"]  "+Fore.LIGHTCYAN_EX+'         Version'+Style.RESET_ALL+":"+Fore.LIGHTRED_EX+'  4.0.0'+Style.RESET_ALL+'              ['+Fore.GREEN+'--'+Style.RESET_ALL+"]"
 	
 
@@ -2727,7 +2727,7 @@ o`   'oooo()  | ________   _   _)
 	Code_BA3 = r'(___._/  \_.___)'
 	Code_BA1 = '['+Fore.GREEN+'--'+Style.RESET_ALL+']'+'._______________________________________'+'['+Fore.GREEN+'--'+Style.RESET_ALL+"]" 
 	Code_BA2 = '['+Fore.GREEN+'--'+Style.RESET_ALL+']'+'\_.----------------------------------._/'+'['+Fore.GREEN+'--'+Style.RESET_ALL+"]" 
-	GithubA = '['+Fore.GREEN+'--'+Style.RESET_ALL+"]"+r'      Follow Me On Github:' +Fore.LIGHTRED_EX+" @NoOAYe"+Style.RESET_ALL+'      ['+Fore.GREEN+'--'+Style.RESET_ALL+"]"
+	GithubA = '['+Fore.GREEN+'--'+Style.RESET_ALL+"]"+r'      Follow Me On Github:' +Fore.LIGHTRED_EX+" HACkCrX"+Style.RESET_ALL+'      ['+Fore.GREEN+'--'+Style.RESET_ALL+"]"
 	FB = '['+Fore.GREEN+'--'+Style.RESET_ALL+"]"+r'         FB:' +Fore.LIGHTRED_EX+"   FB/NOorAmlikas/"+Style.RESET_ALL+'          ['+Fore.GREEN+'--'+Style.RESET_ALL+"]"
 	P = '['+Fore.GREEN+'--'+Style.RESET_ALL+"]"+r'      Select An Option To Begin'+   '         ['+Fore.GREEN+'--'+Style.RESET_ALL+"]"
 	
