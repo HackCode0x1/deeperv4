@@ -90,6 +90,10 @@ Linux Windows
 <img src="scrren/sc3.png">
 <img src="scrren/sc4.png">
 
+<img src="scrren/c1.jpg">
+
+<img src="scrren/c2.jpg">
+
 
 [![Watch This Video]((https://youtu.be/6tkAqBF8mfg)
 
