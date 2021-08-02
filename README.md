@@ -82,17 +82,15 @@ Linux Windows
 <img src="scrren/sx4.png">
 <img src="scrren/sx5.png">
 <img src="scrren/sx6.png">
-<img src="scrren/sx7.png">
 
 
-<img src="scrren/sc1.png">
+
+
 <img src="scrren/sc2.png">
 <img src="scrren/sc3.png">
 <img src="scrren/sc4.png">
 
-<img src="scrren/x1.jpg">
 
-<img src="scrren/x2.jpg">
 
 
 [![Watch This Video]((https://youtu.be/6tkAqBF8mfg)
