@@ -1163,8 +1163,8 @@ C,I,ast = Fore.RED+'010101'+Style.RESET_ALL,'['+Fore.RED+'!'+Style.RESET_ALL+"]"
 def Banner(SHELL=None):
 	#global SHELL
 	D = Fore.WHITE+'['+Fore.GREEN+'--'+Style.RESET_ALL+"]"
-	CN = Fore.LIGHTCYAN_EX+' CodeName: '+Style.RESET_ALL+":"+Fore.RED+"N@RAMInA$SnFLiCKETBuTKS"+Style.RESET_ALL
-	CB = Fore.LIGHTCYAN_EX+'        Created By'+Style.RESET_ALL+":"+Fore.RED+'  AKB'+Style.RESET_ALL
+	CN = Fore.LIGHTCYAN_EX+' CodeName: '+Style.RESET_ALL+":"+Fore.RED+"HACkCrX"+Style.RESET_ALL
+	CB = Fore.LIGHTCYAN_EX+'        Created By'+Style.RESET_ALL+":"+Fore.RED+'  AhmedBalaha'+Style.RESET_ALL
 	VE = Fore.LIGHTCYAN_EX+'        Version'+Style.RESET_ALL+":"+Fore.RED+'  4.0.0'+Style.RESET_ALL
 
 
