@@ -1,59 +1,77 @@
 # deeperv4
 
 Deeper V4
+## FEATURES :
+* [+]  Encrypt file or files in folder or subfolders or Partition or usb !
+* [+] encription with Progress bar !
+* [+] Fast encription !
+* [+] Auto Replace Spaces And Chars Like & () In Files 
+* [+] Encrypting Files With Aes and Rsa Public And Private Keys 
+* [+] SHELL mode !
+* [+] Fast Hash Cracker Bruteforce & Dict Attack !
+* [+] Hashing Password !
+* [+] Hashing Password with hashhmac !
+* [+] encript Password !
+* [+] crack zipfile Bruteforce & Dict Attack !
+* [+] Style Banners !
 
-pip3 install -r requirements.txt
 
+## REQUIREMENTS
+...$ pip3 install -r requirements.txt
 recommended install python 3.7.3
 
-Deeper CR With Style 
+---------------------------------------------
+Command in shell mode 
+---------------------------------------------
+$ Modes
+hashhmac
+hash
+enc
+dec
+crackhash
+crackzip
+Syntax:
+---------------------------------------------
+$ Set mode enc : encript password
+$ Set publickey path to publicKey
+$ Set privatekey path to privateKey
+$ Set Password test 
+$ run
+--------------------------------------------
+$ Set mode dec : decrypt password
+$ Set publickey path to publicKey
+$ Set privatekey path to privateKey
+$ Set Password test 
+$ run
+-------------------------------------------
+ex hash mode :
+------------------
+Set mode hash 
+Set hash md5
+Set password test 
+run 
+------------------
+ex crackhash mode dictionary:
+-----------------------------
+Set mode crackhash
+Set crackmethod dictionary 
+Set Hashsalt md5 
+Set Hash bfd00edd436b5048006cd7a2c0753c40 
+Set wordlist /home/root/Desktop/pwds.txt
+run
+------------------------------------------
+ex crackhash mode bruteforce:
+-----------------------------
+Set mode crackhash
+Set crackmethod bruteforce 
+Set Hashsalt md5 
+Set Hash bfd00edd436b5048006cd7a2c0753c40 
+Set min 8 
+Set max 8 
+Set chars ?d
+run
+-------------------------------------------
 
-Deeper V4 Fast Encryption With Progress bar 
-
-Encrypting Files With Aes and Rsa Public And Private Keys 
-
-
-Encrypt file or files in folder or subfolders or Partition
-
-Auto Replace Spaces And Chars Like & () In Files 
-
-Hide Keys
-
-Deeper Cr Shell Mode:
-
-Modes In Shell :
-
-hash ,enc ,dec,hashhmac ,crackhash , 
-
-New Mode :
-
-zipcrack 
-
-hash mode :
-
-Hashing password with hashlib algorithms
-
-enc mode:
-
-Encrypt password with rsa  Public And Private Keys 
-
-dec mode :
-
-Decrypt passowrd 
-
-
-hashhmac mode :
-
-Hashing password with hashhmac algorithms
-
-crackhash mode :
-
-crack hash with dictionary and bruteforce attack 
-
-
-zipcrack mode :
-
-cracking zip file with dictionary and bruteforce attack 
 
 Setup:
 
