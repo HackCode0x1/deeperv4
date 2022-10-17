@@ -14,6 +14,7 @@ Deeper V4
 * [+] encript Password !
 * [+] crack zipfile Bruteforce & Dict Attack !
 * [+] Style Banners !
+* [+] Hide Keys !
 
 
 ## REQUIREMENTS
