@@ -6,3 +6,4 @@ yaspin
 progressbar
 tqdm
 licensing
+pymarshal
