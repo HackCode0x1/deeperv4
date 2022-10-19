@@ -26,11 +26,17 @@ Command in shell mode
 ---------------------------------------------
 $ Modes
 hashhmac
+
 hash
+
 enc
+
 dec
+
 crackhash
+
 crackzip
+
 Syntax:
 ---------------------------------------------
 $ Set mode enc : encript password
