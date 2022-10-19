@@ -40,42 +40,65 @@ crackzip
 Syntax:
 ---------------------------------------------
 $ Set mode enc : encript password
+
 $ Set publickey path to publicKey
+
 $ Set privatekey path to privateKey
+
 $ Set Password test 
+
 $ run
 --------------------------------------------
 $ Set mode dec : decrypt password
+
 $ Set publickey path to publicKey
+
 $ Set privatekey path to privateKey
+
 $ Set Password test 
+
 $ run
 -------------------------------------------
 ex hash mode :
 ------------------
 Set mode hash 
+
 Set hash md5
+
 Set password test 
+
 run 
 ------------------
 ex crackhash mode dictionary:
 -----------------------------
 Set mode crackhash
+
 Set crackmethod dictionary 
+
 Set Hashsalt md5 
+
 Set Hash bfd00edd436b5048006cd7a2c0753c40 
+
 Set wordlist /home/root/Desktop/pwds.txt
+
 run
 ------------------------------------------
 ex crackhash mode bruteforce:
 -----------------------------
 Set mode crackhash
+
 Set crackmethod bruteforce 
+
 Set Hashsalt md5 
+
 Set Hash bfd00edd436b5048006cd7a2c0753c40 
+
 Set min 8 
+
 Set max 8 
+
 Set chars ?d
+
 run
 -------------------------------------------
 
