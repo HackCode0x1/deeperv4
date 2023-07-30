@@ -81,6 +81,8 @@ Set Hash bfd00edd436b5048006cd7a2c0753c40
 
 Set wordlist /home/root/Desktop/pwds.txt
 
+Set verbose False
+
 run
 ------------------------------------------
 ex crackhash mode bruteforce:
