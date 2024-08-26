@@ -12,9 +12,9 @@ import sys
 import random
 import platform
 #from clear_screen import clear
-from Crypto.PublicKey import RSA 
-from Crypto.Random import get_random_bytes
-from Crypto.Cipher import AES, PKCS1_OAEP
+from crypto.PublicKey import RSA 
+from crypto.Random import get_random_bytes
+from crypto.Cipher import AES, PKCS1_OAEP
 from yaspin import yaspin
 import threading
 import datetime
